@@ -1,0 +1,12 @@
+D:\LeCongViet_2380614993\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\LeCongViet_2380614993\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\LeCongViet_2380614993\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.FormLogin.resources
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.exe.config
+D:\LeCongViet_2380614993\DoAn\DoAn\obj\Debug\DoAn.FormMain.resources
