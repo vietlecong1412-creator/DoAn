@@ -1,0 +1,15 @@
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\DoAn-BUS.dll
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\DoAn-BUS.pdb
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\DoAn-DAL.dll
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\DoAn-DAL.pdb
+D:\DoAn\DoAn\DoAn-BUS\obj\Debug\DoAn-BUS.csproj.AssemblyReference.cache
+D:\DoAn\DoAn\DoAn-BUS\obj\Debug\DoAn-BUS.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn\DoAn-BUS\obj\Debug\DoAn-BUS.csproj.Up2Date
+D:\DoAn\DoAn\DoAn-BUS\obj\Debug\DoAn-BUS.dll
+D:\DoAn\DoAn\DoAn-BUS\obj\Debug\DoAn-BUS.pdb
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\DoAn-BUS.dll.config
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\EntityFramework.dll
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\DoAn-DAL.dll.config
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\EntityFramework.xml
+D:\DoAn\DoAn\DoAn-BUS\bin\Debug\EntityFramework.SqlServer.xml
